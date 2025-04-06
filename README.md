@@ -1,4 +1,4 @@
-# 👋 Welcome to RT MedAI
+# 👋 Welcome to RT MedAI Website
 
 **AI Scientist | Computer Vision Expert | MedTech Problem Solver**
 
